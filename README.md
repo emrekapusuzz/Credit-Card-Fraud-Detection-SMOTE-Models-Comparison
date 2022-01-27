@@ -1,7 +1,7 @@
 
 # Credit Card Fraud Detection-SMOTE-Models Comparison
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fensarbayhan.medium.com%2Fmakina-%25C3%25B6%25C4%259Frenmesi-y%25C3%25B6ntemleri-ile-kredi-kart%25C4%25B1-doland%25C4%25B1r%25C4%25B1c%25C4%25B1l%25C4%25B1%25C4%259F%25C4%25B1-tespiti-34e7e0149ec6&psig=AOvVaw2VwrejHyHEwwxFVC8xkklI&ust=1643365288571000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjt8Kfo0fUCFQAAAAAdAAAAABAD)
+![alt text]("https://miro.medium.com/max/640/1*vEyvMNBTQIUn_pZFJSpXtQ.png")
 
 
 ## Introduction
