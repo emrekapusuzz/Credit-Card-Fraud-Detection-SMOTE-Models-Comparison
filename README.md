@@ -29,6 +29,8 @@ This repository includes my analysis on Credit Card Fraud Detection dataset. The
 
 Dataset taken from kaggle [link](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 
+I will be improving this repository.
+
 Thank you for your time.
 
 
