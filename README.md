@@ -1,7 +1,7 @@
 
 # Credit Card Fraud Detection-SMOTE-Models Comparison
 
-![alt text]("https://miro.medium.com/max/640/1*vEyvMNBTQIUn_pZFJSpXtQ.png")
+![alt text](https://miro.medium.com/max/640/1*vEyvMNBTQIUn_pZFJSpXtQ.png)
 
 
 ## Introduction
